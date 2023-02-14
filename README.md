@@ -24,3 +24,13 @@ when running programs as they allow us to run multiple codes at
 once in the same application/program. The way this works is that
 our computers have multiple processing cores which can handle multiple
 operations at once.
+
+--------------------------------------------------------------------------------------------
+
+Better video demonstrating the code, i sent the wrong video and it didnt let me change it.
+It was supposed to include subtitle explaining what was happening.
+
+link to the video with subtitles:
+https://drive.google.com/file/d/1BmUwqsKU1lHPPc5dXAA-n9j6HsY0lWOU/view?usp=sharing
+
+--------------------------------------------------------------------------------------------
