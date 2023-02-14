@@ -4,7 +4,7 @@ Project with a purpose of demonstrating the efficiency of threading
 How to run:
 
 This is a maven project, just clone this 
-repository and run the code in your preffered IDE.
+repository and run the code in your preferred IDE.
 
 Observation:
 
